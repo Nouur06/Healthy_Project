@@ -1,4 +1,3 @@
-# Roadmap
-## Planning
-## Development
-## Testing
+## Planning Phase
+- Define app goals
+- Research target audience
